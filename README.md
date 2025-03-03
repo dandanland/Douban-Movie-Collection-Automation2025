@@ -1,6 +1,6 @@
 # Douban Movie Collection Automation Tool
 
-This project provides an automation script to help users quickly add a list of movies to a Douban movie collection. It eliminates the need for manual searching and clicking, greatly improving the efficiency of creating collections.
+This project provides an automation script to help Mac users quickly add a list of movies to a Douban movie collection. It eliminates the need for manual searching and clicking, greatly improving the efficiency of creating collections.
 
 ## Features
 
@@ -45,7 +45,7 @@ pip install selenium
 2. Select the version that matches your Chrome browser.
 3. Download the version for your operating system.
 4. Extract the downloaded file.
-5. Move `chromedriver.exe` (Windows) or `chromedriver` (Mac/Linux) to your project folder.
+5. Move `chromedriver.exe` (Windows) or `chromedriver` (Mac/Linux) to your project folder（Note: The version of `chromedriver` in this repository is `113.0.5672.63` for mac arm64.
 
 ## Configuration
 
